@@ -1,0 +1,9 @@
+.bundle
+NERD_*
+tmp
+node_modules
+*swp
+*.DS_Store
+dist
+*pyc
+*sqlite

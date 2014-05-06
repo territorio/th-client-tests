@@ -1,0 +1,3 @@
+[submodule "th-client-dev"]
+	path = th-client-dev
+	url = git@github.com:territorio/th-client-dev.git
